@@ -1,0 +1,2 @@
+# VirGenvalid
+Script Termux
